@@ -1,4 +1,4 @@
-# personal-contact-notebook
+# Personal Contact Notebook
 
 This project was developed in C language in 2013. The personal contacts notebook is capable of registering new contacts with information such as name, address, telephone, email and zip code.
 
